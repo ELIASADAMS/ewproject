@@ -1,0 +1,72 @@
+{
+    "rokoko_custom_names": true,
+    "version": 1,
+    "bones": {
+        "hip": [
+            "ctrl_hips"
+        ],
+        "custom_bone_spine": [
+            "spine",
+            "ctrl_spine"
+        ],
+        "custom_bone_chest": [
+            "chest",
+            "ctrl_spine2"
+        ],
+        "neck": [
+            "ctrl_neck"
+        ],
+        "head": [
+            "ctrl_head"
+        ],
+        "leftShoulder": [
+            "ctrl_shoulder_left"
+        ],
+        "leftUpperArm": [
+            "ctrl_arm_fk_left"
+        ],
+        "leftLowerArm": [
+            "ctrl_forearm_fk_left"
+        ],
+        "leftHand": [
+            "ctrl_hand_fk_left"
+        ],
+        "rightShoulder": [
+            "ctrl_shoulder_right"
+        ],
+        "rightUpperArm": [
+            "ctrl_arm_fk_right"
+        ],
+        "rightLowerArm": [
+            "ctrl_forearm_fk_right"
+        ],
+        "rightHand": [
+            "ctrl_hand_fk_right"
+        ],
+        "leftUpLeg": [
+            "ctrl_upleg_fk_left"
+        ],
+        "leftLeg": [
+            "ctrl_leg_fk_left"
+        ],
+        "leftFoot": [
+            "foot_fk_left"
+        ],
+        "leftToe": [
+            "ctrl_toe_fk_left"
+        ],
+        "rightUpLeg": [
+            "ctrl_upleg_fk_right"
+        ],
+        "rightLeg": [
+            "ctrl_leg_fk_right"
+        ],
+        "rightFoot": [
+            "foot_fk_right"
+        ],
+        "rightToe": [
+            "ctrl_toe_fk_right"
+        ]
+    },
+    "shapes": {}
+}
