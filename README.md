@@ -10,7 +10,7 @@ This repository contains the files for "EWP Project," a CGI abstract animation d
 
 **Director:** Ilya Minin (Eli)
 
-**Synopsis:** A demon in human form returns to his hometown, exploring themes of [alienation, identity, societal disconnect etc].
+**Synopsis:** A demon in human form returns to his hometown, exploring themes of alienation, identity, societal disconnect etc.
 
 **Premiere:** This marks the first time "EWP Project" appears online in the public domain.
 
