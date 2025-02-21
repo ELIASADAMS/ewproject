@@ -14,7 +14,7 @@ This repository contains the files for "EWP Project," a CGI abstract animation d
 
 **Premiere:** This marks the first time "EWP Project" appears online in the public domain.
 
-**Watch the Animation:** [https://www.youtube.com/watch?v=997vBAqNjm0](https://www.youtube.com/watch?v=997vBAqNjm0)
+   [**Watch the Animation:**](https://www.youtube.com/watch?v=997vBAqNjm0)
 
 ## Crew
 
@@ -58,5 +58,5 @@ This repository is provided for:
 
 As this is an animation project, there isn't a traditional "running" process. To view the animation, you can:
 
-1.  **Watch the Animation:** [https://www.youtube.com/watch?v=997vBAqNjm0](https://www.youtube.com/watch?v=997vBAqNjm0)
+1.  [**Watch the Animation:**](https://www.youtube.com/watch?v=997vBAqNjm0)
 2.  To explore the project files, you will need Blender 3.0+.
