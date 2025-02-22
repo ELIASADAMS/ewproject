@@ -60,3 +60,7 @@ As this is an animation project, there isn't a traditional "running" process. To
 
 1.  [**Watch the Animation:**](https://www.youtube.com/watch?v=997vBAqNjm0)
 2.  To explore the project files, you will need Blender 3.0+.
+
+3.  ## Related Projects
+
+*   [**Ilya Minin (Eli)'s Blender Pipeline Addon:**](https://github.com/ELIASADAMS/eli_lab_pipeline_hub.git) - A Blender addon developed by Ilya Minin (Eli) to streamline workflow. Currently in development.
