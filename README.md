@@ -1,5 +1,8 @@
 # EWP Project - CGI Abstract Animation
 
+[![Project Status](https://img.shields.io/badge/status-ready-green)](https://shields.io/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 This repository contains the files for "EWP Project," a CGI abstract animation directed by Ilya Minin (Eli).
 
 ## Project Overview
